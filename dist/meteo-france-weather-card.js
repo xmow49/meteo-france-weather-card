@@ -591,10 +591,10 @@ class WeatherCard extends LitElement {
 
         .title {
           position: absolute;
-          left: 3em;
-          top: 0.9em;
+          left: 4.4em;
+          top: 1.4em;
           font-weight: 300;
-          font-size: 3em;
+          font-size: 2em;
           color: var(--primary-text-color);
         }
         .temp {
